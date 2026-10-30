@@ -1,0 +1,77 @@
+[
+  {
+    "document_id": "S001",
+    "service": "Library",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S002",
+    "service": "Medical Room",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S003",
+    "service": "Cafeteria",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S004",
+    "service": "Transport",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S005",
+    "service": "IT Helpdesk",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S006",
+    "service": "Placement Cell",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S007",
+    "service": "Accounts Office",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S008",
+    "service": "Examination Cell",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S009",
+    "service": "Sports Complex",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S010",
+    "service": "Hostel Office",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S011",
+    "service": "Innovation Cell",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S012",
+    "service": "Research Cell",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S013",
+    "service": "Incubation Centre",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S014",
+    "service": "Security Office",
+    "timing": "9:00 AM - 5:00 PM"
+  },
+  {
+    "document_id": "S015",
+    "service": "Reception",
+    "timing": "9:00 AM - 5:00 PM"
+  }
+]

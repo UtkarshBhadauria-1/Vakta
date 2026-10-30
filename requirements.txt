@@ -1,0 +1,2 @@
+# Full backend dependency list (installable from the repository root).
+-r backend/requirements.txt

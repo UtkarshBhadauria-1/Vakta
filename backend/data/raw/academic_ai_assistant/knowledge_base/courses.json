@@ -1,0 +1,142 @@
+[
+  {
+    "document_id": "C001",
+    "course": "Artificial Intelligence",
+    "semester": 1,
+    "credits": 4,
+    "faculty": "Dr. Faculty 1"
+  },
+  {
+    "document_id": "C002",
+    "course": "Machine Learning",
+    "semester": 2,
+    "credits": 4,
+    "faculty": "Dr. Faculty 2"
+  },
+  {
+    "document_id": "C003",
+    "course": "Deep Learning",
+    "semester": 3,
+    "credits": 4,
+    "faculty": "Dr. Faculty 3"
+  },
+  {
+    "document_id": "C004",
+    "course": "Python",
+    "semester": 4,
+    "credits": 4,
+    "faculty": "Dr. Faculty 4"
+  },
+  {
+    "document_id": "C005",
+    "course": "DBMS",
+    "semester": 5,
+    "credits": 4,
+    "faculty": "Dr. Faculty 5"
+  },
+  {
+    "document_id": "C006",
+    "course": "Operating Systems",
+    "semester": 6,
+    "credits": 4,
+    "faculty": "Dr. Faculty 6"
+  },
+  {
+    "document_id": "C007",
+    "course": "Computer Networks",
+    "semester": 7,
+    "credits": 4,
+    "faculty": "Dr. Faculty 7"
+  },
+  {
+    "document_id": "C008",
+    "course": "Data Science",
+    "semester": 8,
+    "credits": 4,
+    "faculty": "Dr. Faculty 8"
+  },
+  {
+    "document_id": "C009",
+    "course": "Cloud Computing",
+    "semester": 1,
+    "credits": 4,
+    "faculty": "Dr. Faculty 9"
+  },
+  {
+    "document_id": "C010",
+    "course": "Cyber Security",
+    "semester": 2,
+    "credits": 4,
+    "faculty": "Dr. Faculty 10"
+  },
+  {
+    "document_id": "C011",
+    "course": "NLP",
+    "semester": 3,
+    "credits": 4,
+    "faculty": "Dr. Faculty 11"
+  },
+  {
+    "document_id": "C012",
+    "course": "Computer Vision",
+    "semester": 4,
+    "credits": 4,
+    "faculty": "Dr. Faculty 12"
+  },
+  {
+    "document_id": "C013",
+    "course": "Software Engineering",
+    "semester": 5,
+    "credits": 4,
+    "faculty": "Dr. Faculty 13"
+  },
+  {
+    "document_id": "C014",
+    "course": "Algorithms",
+    "semester": 6,
+    "credits": 4,
+    "faculty": "Dr. Faculty 14"
+  },
+  {
+    "document_id": "C015",
+    "course": "IoT",
+    "semester": 7,
+    "credits": 4,
+    "faculty": "Dr. Faculty 15"
+  },
+  {
+    "document_id": "C016",
+    "course": "Big Data",
+    "semester": 8,
+    "credits": 4,
+    "faculty": "Dr. Faculty 16"
+  },
+  {
+    "document_id": "C017",
+    "course": "DevOps",
+    "semester": 1,
+    "credits": 4,
+    "faculty": "Dr. Faculty 17"
+  },
+  {
+    "document_id": "C018",
+    "course": "Blockchain",
+    "semester": 2,
+    "credits": 4,
+    "faculty": "Dr. Faculty 18"
+  },
+  {
+    "document_id": "C019",
+    "course": "Statistics",
+    "semester": 3,
+    "credits": 4,
+    "faculty": "Dr. Faculty 19"
+  },
+  {
+    "document_id": "C020",
+    "course": "Linear Algebra",
+    "semester": 4,
+    "credits": 4,
+    "faculty": "Dr. Faculty 20"
+  }
+]

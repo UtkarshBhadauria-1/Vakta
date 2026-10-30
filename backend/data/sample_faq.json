@@ -1,0 +1,61 @@
+{
+  "notice": "Demonstration content only; these examples are not official policy for any university.",
+  "faqs": [
+    {
+      "id": "faq-registration",
+      "title": "Course registration and add/drop",
+      "category": "Academics",
+      "question": "How do I register for courses or change my schedule?",
+      "answer": "Students review available sections and register through the student portal. Add/drop periods and deadlines vary by term; check the academic calendar in the portal for the current dates. If a section is full, review the portal waitlist option or contact the Registrar's Office."
+    },
+    {
+      "id": "faq-library-hours",
+      "title": "Library hours and study spaces",
+      "category": "Campus services",
+      "question": "When is the library open and how can I find a study space?",
+      "answer": "For this demonstration dataset, the main library is listed as open Monday through Thursday from 8:00 a.m. to 10:00 p.m., Friday from 8:00 a.m. to 6:00 p.m., and weekends from 10:00 a.m. to 5:00 p.m. Special hours may apply during holidays and exams; check the library's official hours page before visiting."
+    },
+    {
+      "id": "faq-tuition-payment",
+      "title": "Tuition bills and payment plans",
+      "category": "Finances",
+      "question": "Where can I see my tuition bill and ask about payment plans?",
+      "answer": "Tuition statements are available in the student portal under Billing. Use the due date shown on your current statement. Students who need installment options should contact Student Accounts to ask which plans are available for the term."
+    },
+    {
+      "id": "faq-academic-advising",
+      "title": "Academic advising appointments",
+      "category": "Academics",
+      "question": "How can I meet with my academic advisor?",
+      "answer": "Students can request an advising appointment through the student portal or contact their school's advising office. Bring a current degree audit and a draft list of questions or courses so the advisor can review your plan."
+    },
+    {
+      "id": "faq-scholarships",
+      "title": "Scholarships and financial aid applications",
+      "category": "Finances",
+      "question": "How do I apply for scholarships and find scholarship deadlines?",
+      "answer": "Review the scholarships listed by the Financial Aid Office and submit applications through the scholarship portal when one is available. Eligibility and deadlines differ between awards; use the deadline shown on each current application and contact the Financial Aid Office about required documents."
+    },
+    {
+      "id": "faq-campus-housing",
+      "title": "Residence hall applications",
+      "category": "Housing",
+      "question": "How do I apply for campus housing or check the application timeline?",
+      "answer": "Residence hall applications are submitted through the housing portal. Application windows, room selection, and deposit requirements can change by academic year. Check the current housing portal notices or contact Residence Life for dates that apply to your application."
+    },
+    {
+      "id": "faq-transcripts",
+      "title": "Official transcript requests",
+      "category": "Records",
+      "question": "How can I request an official transcript?",
+      "answer": "Request an official transcript through the Registrar's online transcript service. Review delivery choices and any listed processing fee before submitting. The Registrar's Office can confirm processing times for current requests."
+    },
+    {
+      "id": "faq-student-id",
+      "title": "Student ID cards and replacements",
+      "category": "Campus services",
+      "question": "Where do I get a student ID card or replace a lost one?",
+      "answer": "New students can collect an ID card from Student Services after their enrollment is confirmed. If a card is lost or damaged, contact Student Services to verify identity and ask about replacement steps and any applicable fee."
+    }
+  ]
+}

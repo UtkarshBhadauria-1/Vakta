@@ -1,0 +1,202 @@
+[
+  {
+    "document_id": "F001",
+    "name": "Dr. Faculty 1",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Artificial Intelligence"
+    ],
+    "email": "faculty1@college.edu"
+  },
+  {
+    "document_id": "F002",
+    "name": "Dr. Faculty 2",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Machine Learning"
+    ],
+    "email": "faculty2@college.edu"
+  },
+  {
+    "document_id": "F003",
+    "name": "Dr. Faculty 3",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Deep Learning"
+    ],
+    "email": "faculty3@college.edu"
+  },
+  {
+    "document_id": "F004",
+    "name": "Dr. Faculty 4",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Python"
+    ],
+    "email": "faculty4@college.edu"
+  },
+  {
+    "document_id": "F005",
+    "name": "Dr. Faculty 5",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "DBMS"
+    ],
+    "email": "faculty5@college.edu"
+  },
+  {
+    "document_id": "F006",
+    "name": "Dr. Faculty 6",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Operating Systems"
+    ],
+    "email": "faculty6@college.edu"
+  },
+  {
+    "document_id": "F007",
+    "name": "Dr. Faculty 7",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Computer Networks"
+    ],
+    "email": "faculty7@college.edu"
+  },
+  {
+    "document_id": "F008",
+    "name": "Dr. Faculty 8",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Data Science"
+    ],
+    "email": "faculty8@college.edu"
+  },
+  {
+    "document_id": "F009",
+    "name": "Dr. Faculty 9",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Cloud Computing"
+    ],
+    "email": "faculty9@college.edu"
+  },
+  {
+    "document_id": "F010",
+    "name": "Dr. Faculty 10",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Cyber Security"
+    ],
+    "email": "faculty10@college.edu"
+  },
+  {
+    "document_id": "F011",
+    "name": "Dr. Faculty 11",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "NLP"
+    ],
+    "email": "faculty11@college.edu"
+  },
+  {
+    "document_id": "F012",
+    "name": "Dr. Faculty 12",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Computer Vision"
+    ],
+    "email": "faculty12@college.edu"
+  },
+  {
+    "document_id": "F013",
+    "name": "Dr. Faculty 13",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Software Engineering"
+    ],
+    "email": "faculty13@college.edu"
+  },
+  {
+    "document_id": "F014",
+    "name": "Dr. Faculty 14",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Algorithms"
+    ],
+    "email": "faculty14@college.edu"
+  },
+  {
+    "document_id": "F015",
+    "name": "Dr. Faculty 15",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "IoT"
+    ],
+    "email": "faculty15@college.edu"
+  },
+  {
+    "document_id": "F016",
+    "name": "Dr. Faculty 16",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Big Data"
+    ],
+    "email": "faculty16@college.edu"
+  },
+  {
+    "document_id": "F017",
+    "name": "Dr. Faculty 17",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "DevOps"
+    ],
+    "email": "faculty17@college.edu"
+  },
+  {
+    "document_id": "F018",
+    "name": "Dr. Faculty 18",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Blockchain"
+    ],
+    "email": "faculty18@college.edu"
+  },
+  {
+    "document_id": "F019",
+    "name": "Dr. Faculty 19",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Statistics"
+    ],
+    "email": "faculty19@college.edu"
+  },
+  {
+    "document_id": "F020",
+    "name": "Dr. Faculty 20",
+    "department": "CSE-AIML",
+    "designation": "Assistant Professor",
+    "subjects": [
+      "Linear Algebra"
+    ],
+    "email": "faculty20@college.edu"
+  }
+]

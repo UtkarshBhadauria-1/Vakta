@@ -1,0 +1,142 @@
+{
+  "dataset_file": "backend/data/dataset.csv",
+  "dataset_sha256": "eb65aa0058f187d2d899fc248a78c388700c3025d54b2461a46633231fd20ae4",
+  "source_file": "backend/data/dataset-original-500.csv",
+  "source_sha256": "cbf1fbd353623819c462ad76e4277c264b7dcfe41af5dc91ecb44c4d743f7526",
+  "source_schema": [
+    "session_id",
+    "user_query_type",
+    "intent",
+    "confidence_score",
+    "escalated",
+    "user_rating"
+  ],
+  "official_brief_schema_note": "The brief lists user_query and bot_response, which the supplied CSV did not capture. No values were fabricated; see HCL_BRIEF_SCHEMA_CROSSWALK.csv.",
+  "quality": {
+    "expected_six_column_schema": true,
+    "original_500_value_rows_preserved": true,
+    "original_row_count": 500,
+    "combined_row_count": 5000,
+    "synthetic_row_count": 4500,
+    "missing_cells": 0,
+    "duplicate_session_ids": 0,
+    "duplicate_full_rows": 0,
+    "session_ids_sequential_S0001_to_S5000": true,
+    "invalid_intents": [],
+    "invalid_query_types": [],
+    "invalid_escalated_values": [],
+    "invalid_ratings": [],
+    "invalid_confidence_rows": [],
+    "data_dictionary_covers_columns_without_placeholders": true
+  },
+  "confidence": {
+    "count": 5000,
+    "min": 0.602,
+    "max": 0.999,
+    "mean": 0.7946,
+    "median": 0.793,
+    "stdev_population": 0.1124,
+    "q1": 0.708,
+    "q3": 0.877,
+    "iqr_1_5_outlier_count": 0
+  },
+  "intent_counts": {
+    "admissions": 808,
+    "exams": 737,
+    "fees": 756,
+    "grievance": 645,
+    "hostel": 714,
+    "library": 569,
+    "schedule": 771
+  },
+  "query_type_counts": {
+    "query_type_1": 962,
+    "query_type_2": 1004,
+    "query_type_3": 1097,
+    "query_type_4": 1147,
+    "query_type_5": 790
+  },
+  "escalation_counts": {
+    "0": 4566,
+    "1": 434
+  },
+  "rating_counts": {
+    "1": 690,
+    "2": 813,
+    "3": 1319,
+    "4": 1229,
+    "5": 949
+  },
+  "escalation_by_intent": {
+    "admissions": {
+      "records": 808,
+      "escalated": 56,
+      "rate": 0.0693
+    },
+    "schedule": {
+      "records": 771,
+      "escalated": 56,
+      "rate": 0.0726
+    },
+    "fees": {
+      "records": 756,
+      "escalated": 69,
+      "rate": 0.0913
+    },
+    "exams": {
+      "records": 737,
+      "escalated": 54,
+      "rate": 0.0733
+    },
+    "grievance": {
+      "records": 645,
+      "escalated": 107,
+      "rate": 0.1659
+    },
+    "hostel": {
+      "records": 714,
+      "escalated": 52,
+      "rate": 0.0728
+    },
+    "library": {
+      "records": 569,
+      "escalated": 40,
+      "rate": 0.0703
+    }
+  },
+  "source_groups": {
+    "original_500": {
+      "rows": 500,
+      "escalated": 39,
+      "escalation_rate": 0.078,
+      "mean_confidence": 0.7969,
+      "rating_distribution": {
+        "1": 92,
+        "2": 97,
+        "3": 103,
+        "4": 95,
+        "5": 113
+      }
+    },
+    "synthetic_4500": {
+      "rows": 4500,
+      "escalated": 395,
+      "escalation_rate": 0.0878,
+      "mean_confidence": 0.7943,
+      "rating_distribution": {
+        "1": 598,
+        "2": 716,
+        "3": 1216,
+        "4": 1134,
+        "5": 836
+      }
+    }
+  },
+  "anomaly_interpretation": "No anomaly indicator is stored in the CSV. The generator has a 3% internal branch that can alter an escalation draw, but the selected rows are not tagged; the EDA reports only measurable data-quality checks and a Tukey IQR count for confidence.",
+  "visualizations": [
+    "01_intent_distribution.png",
+    "02_confidence_distribution.png",
+    "03_escalation_and_feedback.png",
+    "04_query_type_distribution.png"
+  ]
+}

@@ -1,0 +1,111 @@
+query_id,query,document_id
+1,Who teaches Artificial Intelligence?,F001
+2,Artificial Intelligence faculty,F001
+3,Instructor for Artificial Intelligence,F001
+4,Artificial Intelligence teacher,F001
+5,Who teaches Machine Learning?,F002
+6,Machine Learning faculty,F002
+7,Instructor for Machine Learning,F002
+8,Machine Learning teacher,F002
+9,Who teaches Deep Learning?,F003
+10,Deep Learning faculty,F003
+11,Instructor for Deep Learning,F003
+12,Deep Learning teacher,F003
+13,Who teaches Python?,F004
+14,Python faculty,F004
+15,Instructor for Python,F004
+16,Python teacher,F004
+17,Who teaches DBMS?,F005
+18,DBMS faculty,F005
+19,Instructor for DBMS,F005
+20,DBMS teacher,F005
+21,Who teaches Operating Systems?,F006
+22,Operating Systems faculty,F006
+23,Instructor for Operating Systems,F006
+24,Operating Systems teacher,F006
+25,Who teaches Computer Networks?,F007
+26,Computer Networks faculty,F007
+27,Instructor for Computer Networks,F007
+28,Computer Networks teacher,F007
+29,Who teaches Data Science?,F008
+30,Data Science faculty,F008
+31,Instructor for Data Science,F008
+32,Data Science teacher,F008
+33,Who teaches Cloud Computing?,F009
+34,Cloud Computing faculty,F009
+35,Instructor for Cloud Computing,F009
+36,Cloud Computing teacher,F009
+37,Who teaches Cyber Security?,F010
+38,Cyber Security faculty,F010
+39,Instructor for Cyber Security,F010
+40,Cyber Security teacher,F010
+41,Who teaches NLP?,F011
+42,NLP faculty,F011
+43,Instructor for NLP,F011
+44,NLP teacher,F011
+45,Who teaches Computer Vision?,F012
+46,Computer Vision faculty,F012
+47,Instructor for Computer Vision,F012
+48,Computer Vision teacher,F012
+49,Who teaches Software Engineering?,F013
+50,Software Engineering faculty,F013
+51,Instructor for Software Engineering,F013
+52,Software Engineering teacher,F013
+53,Who teaches Algorithms?,F014
+54,Algorithms faculty,F014
+55,Instructor for Algorithms,F014
+56,Algorithms teacher,F014
+57,Who teaches IoT?,F015
+58,IoT faculty,F015
+59,Instructor for IoT,F015
+60,IoT teacher,F015
+61,Who teaches Big Data?,F016
+62,Big Data faculty,F016
+63,Instructor for Big Data,F016
+64,Big Data teacher,F016
+65,Who teaches DevOps?,F017
+66,DevOps faculty,F017
+67,Instructor for DevOps,F017
+68,DevOps teacher,F017
+69,Who teaches Blockchain?,F018
+70,Blockchain faculty,F018
+71,Instructor for Blockchain,F018
+72,Blockchain teacher,F018
+73,Who teaches Statistics?,F019
+74,Statistics faculty,F019
+75,Instructor for Statistics,F019
+76,Statistics teacher,F019
+77,Who teaches Linear Algebra?,F020
+78,Linear Algebra faculty,F020
+79,Instructor for Linear Algebra,F020
+80,Linear Algebra teacher,F020
+81,Minimum attendance required?,A001
+82,Minimum attendance required? process,A001
+83,Minimum attendance required? details,A001
+84,Attendance percentage?,A001
+85,Attendance percentage? process,A001
+86,Attendance percentage? details,A001
+87,Library timing,S001
+88,Library timing process,S001
+89,Library timing details,S001
+90,ERP password reset,Q001
+91,ERP password reset process,Q001
+92,ERP password reset details,Q001
+93,Placement CGPA,P001
+94,Placement CGPA process,P001
+95,Placement CGPA details,P001
+96,Apply leave,Q002
+97,Apply leave process,Q002
+98,Apply leave details,Q002
+99,Bonafide certificate,Q003
+100,Bonafide certificate process,Q003
+101,Bonafide certificate details,Q003
+102,Hostel gate timing,HS001
+103,Hostel gate timing process,HS001
+104,Hostel gate timing details,HS001
+105,Semester starts,AC001
+106,Semester starts process,AC001
+107,Semester starts details,AC001
+108,Exam form,Q010
+109,Exam form process,Q010
+110,Exam form details,Q010

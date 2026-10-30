@@ -1,0 +1,252 @@
+[
+  {
+    "document_id": "Q001",
+    "question": "Reset ERP password",
+    "answer": "Contact IT Helpdesk."
+  },
+  {
+    "document_id": "Q002",
+    "question": "Apply leave",
+    "answer": "Use ERP leave portal."
+  },
+  {
+    "document_id": "Q003",
+    "question": "Bonafide certificate",
+    "answer": "Apply through Academic Office."
+  },
+  {
+    "document_id": "Q004",
+    "question": "Placement registration",
+    "answer": "Register on Placement Portal."
+  },
+  {
+    "document_id": "Q005",
+    "question": "Library membership",
+    "answer": "Visit library desk."
+  },
+  {
+    "document_id": "Q006",
+    "question": "Fee payment",
+    "answer": "Pay through ERP."
+  },
+  {
+    "document_id": "Q007",
+    "question": "Lost ID card",
+    "answer": "Report to Admin Office."
+  },
+  {
+    "document_id": "Q008",
+    "question": "Hostel allocation",
+    "answer": "Contact Hostel Office."
+  },
+  {
+    "document_id": "Q009",
+    "question": "Internship NOC",
+    "answer": "Apply through Training Cell."
+  },
+  {
+    "document_id": "Q010",
+    "question": "Exam form",
+    "answer": "Submit through ERP."
+  },
+  {
+    "document_id": "Q011",
+    "question": "Scholarship",
+    "answer": "Contact Scholarship Cell."
+  },
+  {
+    "document_id": "Q012",
+    "question": "Bus pass",
+    "answer": "Visit Transport Office."
+  },
+  {
+    "document_id": "Q013",
+    "question": "Medical emergency",
+    "answer": "Visit Medical Room."
+  },
+  {
+    "document_id": "Q014",
+    "question": "WiFi issue",
+    "answer": "Contact IT Helpdesk."
+  },
+  {
+    "document_id": "Q015",
+    "question": "Course registration",
+    "answer": "Use ERP."
+  },
+  {
+    "document_id": "Q016",
+    "question": "Transcript",
+    "answer": "Apply through Academic Office."
+  },
+  {
+    "document_id": "Q017",
+    "question": "Attendance shortage",
+    "answer": "Meet class advisor."
+  },
+  {
+    "document_id": "Q018",
+    "question": "Semester registration",
+    "answer": "Complete ERP registration."
+  },
+  {
+    "document_id": "Q019",
+    "question": "Library fine",
+    "answer": "Pay at library."
+  },
+  {
+    "document_id": "Q020",
+    "question": "Lab access",
+    "answer": "Contact Lab Incharge."
+  },
+  {
+    "document_id": "Q021",
+    "question": "Research project",
+    "answer": "Meet Research Cell."
+  },
+  {
+    "document_id": "Q022",
+    "question": "Hackathon support",
+    "answer": "Innovation Cell."
+  },
+  {
+    "document_id": "Q023",
+    "question": "Placement training",
+    "answer": "Placement Cell."
+  },
+  {
+    "document_id": "Q024",
+    "question": "Hostel fee",
+    "answer": "Accounts Office."
+  },
+  {
+    "document_id": "Q025",
+    "question": "Mess complaint",
+    "answer": "Hostel Office."
+  },
+  {
+    "document_id": "Q026",
+    "question": "Exam timetable",
+    "answer": "Examination Cell."
+  },
+  {
+    "document_id": "Q027",
+    "question": "Duplicate ID",
+    "answer": "Admin Office."
+  },
+  {
+    "document_id": "Q028",
+    "question": "Certificate verification",
+    "answer": "Academic Office."
+  },
+  {
+    "document_id": "Q029",
+    "question": "Document submission",
+    "answer": "Department Office."
+  },
+  {
+    "document_id": "Q030",
+    "question": "Academic counselling",
+    "answer": "Faculty Advisor."
+  },
+  {
+    "document_id": "Q031",
+    "question": "Leave approval",
+    "answer": "Faculty Advisor."
+  },
+  {
+    "document_id": "Q032",
+    "question": "Laptop issue",
+    "answer": "IT Helpdesk."
+  },
+  {
+    "document_id": "Q033",
+    "question": "Printer access",
+    "answer": "Library."
+  },
+  {
+    "document_id": "Q034",
+    "question": "Sports registration",
+    "answer": "Sports Office."
+  },
+  {
+    "document_id": "Q035",
+    "question": "Club registration",
+    "answer": "Student Affairs."
+  },
+  {
+    "document_id": "Q036",
+    "question": "NSS registration",
+    "answer": "NSS Cell."
+  },
+  {
+    "document_id": "Q037",
+    "question": "NCC enrollment",
+    "answer": "NCC Office."
+  },
+  {
+    "document_id": "Q038",
+    "question": "Elective selection",
+    "answer": "ERP Portal."
+  },
+  {
+    "document_id": "Q039",
+    "question": "Fee receipt",
+    "answer": "Accounts Office."
+  },
+  {
+    "document_id": "Q040",
+    "question": "Library renewal",
+    "answer": "Library Desk."
+  },
+  {
+    "document_id": "Q041",
+    "question": "Parking permit",
+    "answer": "Security Office."
+  },
+  {
+    "document_id": "Q042",
+    "question": "Internship letter",
+    "answer": "Training Cell."
+  },
+  {
+    "document_id": "Q043",
+    "question": "Convocation",
+    "answer": "Academic Office."
+  },
+  {
+    "document_id": "Q044",
+    "question": "Migration certificate",
+    "answer": "Academic Office."
+  },
+  {
+    "document_id": "Q045",
+    "question": "Degree certificate",
+    "answer": "Examination Cell."
+  },
+  {
+    "document_id": "Q046",
+    "question": "Marksheet correction",
+    "answer": "Examination Cell."
+  },
+  {
+    "document_id": "Q047",
+    "question": "Revaluation",
+    "answer": "Examination Cell."
+  },
+  {
+    "document_id": "Q048",
+    "question": "Bus timing",
+    "answer": "Transport Office."
+  },
+  {
+    "document_id": "Q049",
+    "question": "Hostel timing",
+    "answer": "Hostel Office."
+  },
+  {
+    "document_id": "Q050",
+    "question": "Cafeteria timing",
+    "answer": "Cafeteria."
+  }
+]

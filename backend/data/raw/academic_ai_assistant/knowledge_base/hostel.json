@@ -1,0 +1,42 @@
+[
+  {
+    "document_id": "HS001",
+    "rule": "Gate closes at 10 PM"
+  },
+  {
+    "document_id": "HS002",
+    "rule": "Visitors till 7 PM"
+  },
+  {
+    "document_id": "HS003",
+    "rule": "ID mandatory"
+  },
+  {
+    "document_id": "HS004",
+    "rule": "No smoking"
+  },
+  {
+    "document_id": "HS005",
+    "rule": "Silence after 11 PM"
+  },
+  {
+    "document_id": "HS006",
+    "rule": "Mess timing 7-9 AM"
+  },
+  {
+    "document_id": "HS007",
+    "rule": "Laundry weekly"
+  },
+  {
+    "document_id": "HS008",
+    "rule": "Room inspection monthly"
+  },
+  {
+    "document_id": "HS009",
+    "rule": "Report maintenance"
+  },
+  {
+    "document_id": "HS010",
+    "rule": "Hostel fee before semester"
+  }
+]

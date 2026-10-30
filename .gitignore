@@ -1,0 +1,36 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python environments, caches, and test outputs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+htmlcov/
+
+# Local document editor temporary files
+~$*.docx
+*.docx.tmp
+
+# Generated local model/index material; checked-in dataset/EDA/report artifacts remain deliverable
+backend/data/documents/*
+!backend/data/documents/.gitkeep
+backend/data/index/
+
+# JavaScript dependencies and transient build state
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Editors and operating systems
+.DS_Store
+.vscode/
+.idea/

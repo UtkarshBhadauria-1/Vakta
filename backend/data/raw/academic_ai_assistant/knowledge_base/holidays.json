@@ -1,0 +1,42 @@
+[
+  {
+    "document_id": "H001",
+    "holiday": "Republic Day"
+  },
+  {
+    "document_id": "H002",
+    "holiday": "Holi"
+  },
+  {
+    "document_id": "H003",
+    "holiday": "Good Friday"
+  },
+  {
+    "document_id": "H004",
+    "holiday": "Independence Day"
+  },
+  {
+    "document_id": "H005",
+    "holiday": "Janmashtami"
+  },
+  {
+    "document_id": "H006",
+    "holiday": "Gandhi Jayanti"
+  },
+  {
+    "document_id": "H007",
+    "holiday": "Dussehra"
+  },
+  {
+    "document_id": "H008",
+    "holiday": "Diwali"
+  },
+  {
+    "document_id": "H009",
+    "holiday": "Christmas"
+  },
+  {
+    "document_id": "H010",
+    "holiday": "New Year"
+  }
+]

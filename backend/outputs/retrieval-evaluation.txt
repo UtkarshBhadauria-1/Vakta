@@ -1,0 +1,21 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1553.00it/s]
+Q: How do I add or drop a class, and where is the deadline?
+  expected=['faq-registration'] retrieved=['faq-registration', 'Q017', 'C005'] recall@3=1.00
+Q: What time can I study at the library on Saturday?
+  expected=['faq-library-hours'] retrieved=['faq-library-hours', 'S001', 'H003'] recall@3=1.00
+Q: Can I split my tuition bill into installments?
+  expected=['faq-tuition-payment'] retrieved=['faq-tuition-payment', 'HS010', 'AC001'] recall@3=1.00
+Q: Where do I apply for merit awards and see when they are due?
+  expected=['faq-scholarships'] retrieved=['faq-scholarships', 'AC006', 'AC012'] recall@3=1.00
+Q: I need proof of my grades sent somewhere. How do I order it?
+  expected=['faq-transcripts'] retrieved=['Q016', 'Q028', 'faq-transcripts'] recall@3=1.00
+Q: What should I take with me when meeting my academic advisor?
+  expected=['faq-academic-advising'] retrieved=['faq-academic-advising', 'Q030', 'Q017'] recall@3=1.00
+Q: Where can I find the application dates for a dorm room?
+  expected=['faq-campus-housing'] retrieved=['faq-campus-housing', 'AC001', 'S010'] recall@3=1.00
+Q: My campus card is lost. Who should I ask for another one?
+  expected=['faq-student-id'] retrieved=['faq-student-id', 'Q007', 'Q011'] recall@3=1.00
+
+Results over 8 samples: HitRate@3=1.000, Recall@3=1.000
+Interpretation is limited by the small, hand-labeled demonstration dataset; see README.

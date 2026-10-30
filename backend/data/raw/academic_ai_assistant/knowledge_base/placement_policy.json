@@ -1,0 +1,42 @@
+[
+  {
+    "document_id": "P001",
+    "rule": "Minimum CGPA 6.5"
+  },
+  {
+    "document_id": "P002",
+    "rule": "No active backlog preferred"
+  },
+  {
+    "document_id": "P003",
+    "rule": "Resume mandatory"
+  },
+  {
+    "document_id": "P004",
+    "rule": "Placement registration required"
+  },
+  {
+    "document_id": "P005",
+    "rule": "Mock interview compulsory"
+  },
+  {
+    "document_id": "P006",
+    "rule": "Internship preferred"
+  },
+  {
+    "document_id": "P007",
+    "rule": "Formal dress code"
+  },
+  {
+    "document_id": "P008",
+    "rule": "ID card mandatory"
+  },
+  {
+    "document_id": "P009",
+    "rule": "Offer acceptance within deadline"
+  },
+  {
+    "document_id": "P010",
+    "rule": "Follow placement policy"
+  }
+]

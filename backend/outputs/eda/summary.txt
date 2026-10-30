@@ -1,0 +1,24 @@
+Vakta dataset EDA and validation
+=================================
+Rows: 5,000 total; 500 supplied source + 4,500 synthetic metadata rows.
+Schema: session_id, user_query_type, intent, confidence_score, escalated, user_rating (6 columns).
+Original field values preserved: True.
+Dataset SHA-256: eb65aa0058f187d2d899fc248a78c388700c3025d54b2461a46633231fd20ae4
+
+Data-quality checks:
+  Missing cells: 0; duplicate IDs: 0; duplicate full rows: 0.
+  Sequential IDs S0001–S5000: True; dictionary complete: True.
+  Invalid intent/query type/escalation/rating values: 0/0/0/0.
+  Invalid confidence rows: 0; Tukey 1.5×IQR confidence outliers: 0.
+
+Observed dataset aggregates (not live application performance):
+  Escalated flag: 434/5,000 (8.7%).
+  Confidence: mean 0.795, median 0.793, range 0.602–0.999.
+  Highest-volume intent: admissions (808 rows).
+  Most common rating value: 3 (1,319 rows).
+
+Interpretation limits:
+  The 4,500 generated rows are synthetic metadata, not genuine student conversations or feedback.
+  No user_query, bot_response, response-time, or explicit anomaly-label field was captured in the supplied CSV.
+  The source brief and supplied CSV schema differ; see backend/data/HCL_BRIEF_SCHEMA_CROSSWALK.csv.
+  Synthetic rating values must not be presented as actual satisfaction results.

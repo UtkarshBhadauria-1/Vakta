@@ -1,0 +1,1 @@
+"""Vakta backend application package."""

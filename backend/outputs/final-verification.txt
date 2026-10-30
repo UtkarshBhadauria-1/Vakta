@@ -1,0 +1,19 @@
+Vakta final verification
+========================
+
+Fresh checks executed for this submission package:
+- Backend: `/tmp/vakta-backend-env/bin/python -m pytest -q` -> 81 passed in 9.50s.
+- Frontend: `pnpm install --frozen-lockfile --ignore-scripts` followed by `pnpm build` -> Vite production build passed in 1.70s.
+- Report rendering: LibreOffice conversion succeeded; Vakta_HCLTech_Project_Report.docx rendered to 13 pages.
+- Report figures: architecture plus EDA figures are embedded; Figure 5 covers the query-type distribution chart. The four source EDA PNGs are present under backend/outputs/eda/.
+- Dataset: dataset-original-500.csv contains 500 data rows; backend/data/dataset.csv contains 5,000 data rows; the original 500-row values are preserved in the expanded dataset and dataset-Vakta.csv matches the preserved baseline.
+- Clean-package scan: no .env file, virtual environment, node_modules, build dist, Python cache, or credential file is included in the final ZIP; .env.example and dependency manifests/lockfiles are retained.
+
+Previously recorded (not re-executed in this final pass):
+- Retrieval evaluation: HitRate@3=1.000 and Recall@3=1.000 on 8 hand-labeled demonstration questions.
+- Python compilation check: passed in the prior verification run.
+
+Remaining risks and owner actions:
+- Any credential that appeared in the uploaded archive must be revoked/rotated before live use; no credential value is included here.
+- Live Groq generation, production deployment, authentication, durable telemetry, OCR, monitoring, and actual staff handoff are not implemented or claimed as verified.
+- Mentor/owner review remains appropriate for the synopsis declaration, learner-specific fields, source licensing, DPDP/privacy posture, and official-policy claims.

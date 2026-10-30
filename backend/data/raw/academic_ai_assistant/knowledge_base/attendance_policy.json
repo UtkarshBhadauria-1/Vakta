@@ -1,0 +1,42 @@
+[
+  {
+    "document_id": "A001",
+    "policy": "Minimum attendance is 75%."
+  },
+  {
+    "document_id": "A002",
+    "policy": "Medical leave requires documents."
+  },
+  {
+    "document_id": "A003",
+    "policy": "Attendance shortage may restrict exams."
+  },
+  {
+    "document_id": "A004",
+    "policy": "Biometric attendance is compulsory."
+  },
+  {
+    "document_id": "A005",
+    "policy": "Condonation is subject to approval."
+  },
+  {
+    "document_id": "A006",
+    "policy": "Attendance updated weekly."
+  },
+  {
+    "document_id": "A007",
+    "policy": "Lab attendance mandatory."
+  },
+  {
+    "document_id": "A008",
+    "policy": "Proxy attendance prohibited."
+  },
+  {
+    "document_id": "A009",
+    "policy": "Late entry marked absent."
+  },
+  {
+    "document_id": "A010",
+    "policy": "Attendance visible in ERP."
+  }
+]

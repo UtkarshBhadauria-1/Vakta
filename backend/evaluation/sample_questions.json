@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How do I add or drop a class, and where is the deadline?",
+    "expected_document_ids": ["faq-registration"]
+  },
+  {
+    "question": "What time can I study at the library on Saturday?",
+    "expected_document_ids": ["faq-library-hours"]
+  },
+  {
+    "question": "Can I split my tuition bill into installments?",
+    "expected_document_ids": ["faq-tuition-payment"]
+  },
+  {
+    "question": "Where do I apply for merit awards and see when they are due?",
+    "expected_document_ids": ["faq-scholarships"]
+  },
+  {
+    "question": "I need proof of my grades sent somewhere. How do I order it?",
+    "expected_document_ids": ["faq-transcripts"]
+  },
+  {
+    "question": "What should I take with me when meeting my academic advisor?",
+    "expected_document_ids": ["faq-academic-advising"]
+  },
+  {
+    "question": "Where can I find the application dates for a dorm room?",
+    "expected_document_ids": ["faq-campus-housing"]
+  },
+  {
+    "question": "My campus card is lost. Who should I ask for another one?",
+    "expected_document_ids": ["faq-student-id"]
+  }
+]

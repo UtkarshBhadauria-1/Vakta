@@ -1,0 +1,77 @@
+[
+  {
+    "document_id": "AC001",
+    "event": "Semester Start",
+    "date": "25 Jul"
+  },
+  {
+    "document_id": "AC002",
+    "event": "Orientation",
+    "date": "24 Jul"
+  },
+  {
+    "document_id": "AC003",
+    "event": "Registration",
+    "date": "20 Jul"
+  },
+  {
+    "document_id": "AC004",
+    "event": "Mid Sem",
+    "date": "15 Sep"
+  },
+  {
+    "document_id": "AC005",
+    "event": "End Sem",
+    "date": "20 Nov"
+  },
+  {
+    "document_id": "AC006",
+    "event": "Result",
+    "date": "15 Dec"
+  },
+  {
+    "document_id": "AC007",
+    "event": "Holiday",
+    "date": "2 Oct"
+  },
+  {
+    "document_id": "AC008",
+    "event": "Hackathon",
+    "date": "12 Aug"
+  },
+  {
+    "document_id": "AC009",
+    "event": "Workshop",
+    "date": "18 Aug"
+  },
+  {
+    "document_id": "AC010",
+    "event": "Sports Fest",
+    "date": "10 Oct"
+  },
+  {
+    "document_id": "AC011",
+    "event": "Cultural Fest",
+    "date": "25 Oct"
+  },
+  {
+    "document_id": "AC012",
+    "event": "Project Review",
+    "date": "5 Nov"
+  },
+  {
+    "document_id": "AC013",
+    "event": "Viva",
+    "date": "18 Nov"
+  },
+  {
+    "document_id": "AC014",
+    "event": "Convocation",
+    "date": "20 Jan"
+  },
+  {
+    "document_id": "AC015",
+    "event": "Alumni Meet",
+    "date": "12 Feb"
+  }
+]
